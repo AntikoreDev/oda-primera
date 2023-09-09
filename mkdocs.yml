@@ -18,12 +18,13 @@ nav:
   - 'EXTRAS 101':
     - 'Pronunciación': 101/pronunciation.md
     - 'Determinantes': 101/determinants.md
+    - 'Plurales': 101/plurals.md
     - Vocabulario: 101/vocabulary.md
   - 'AVANZADOS':
     - Alfabeto: advanced/alphabet.md
     - Numerales: advanced/numerals.md
-    - Sufijos: advanced/suffixes.md
     - Tiempo: advanced/time.md
     - Clima: advanced/climate.md
+    - Sufijos: advanced/suffixes.md
     
 theme: readthedocs
