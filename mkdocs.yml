@@ -1,0 +1,29 @@
+site_name: Aidanesa Primera
+site_url: https://antikoredev.github.io/oda-primera
+repo_url: https://github.com/antikoredev/oda-primera
+edit_uri: edit/main/docs/
+site_description: Little guide on learning my conlang!
+site_author: Antikore
+nav:
+  - Inicio: index.md
+  - 'VERBOS 101':
+    - Pronombres: 101/pronouns.md
+    - Verbos: 101/verbs.md
+  - 'FRASES 101':
+    - 'Orden gramatical': 101/sentences.md
+    - 'Géneros': 101/genders.md
+    - Concepciones: 101/conceptions.md
+    - 'Conjunciones': 101/conjunctions.md
+    - 'Preguntas': 101/questions.md
+  - 'EXTRAS 101':
+    - 'Pronunciación': 101/pronunciation.md
+    - 'Determinantes': 101/determinants.md
+    - Vocabulario: 101/vocabulary.md
+  - 'AVANZADOS':
+    - Alfabeto: advanced/alphabet.md
+    - Numerales: advanced/numerals.md
+    - Sufijos: advanced/suffixes.md
+    - Tiempo: advanced/time.md
+    - Clima: advanced/climate.md
+    
+theme: readthedocs
