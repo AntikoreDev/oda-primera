@@ -15,4 +15,4 @@ Estas son algunas expresiones para determinadas situaciones. Ten en cuenta que d
     - **Non fuseiet (ei/'pronombre posesivo') forno** _(No me molestes, no molestes)_
 - **So sei am leon husko** _(Ya no es lo que fue, especialmente referente a personas)_
 - **So sei am tiko da equa** _(Es una lapa)_
-- **Non ende non hembe (paira x)** _(No es relevante o importante para 'x', o directamente no es necesario que lo sepa. Si no se incluye el trozo final a quien se refiere tiene que ser intuitivo)_ 
+- **Non ende non hembe (`acusativo`)** _(No es relevante o importante para el acusativo, o directamente no es necesario que lo sepa. Si no se incluye el acusativo a quien se refiere tiene que ser intuitivo)_ 
