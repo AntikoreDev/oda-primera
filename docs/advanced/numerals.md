@@ -2,7 +2,7 @@
 Los numerales incluyen los números cardinales y ordinales.
 
 ## Cardinales
-- **Zuro:** Cero
+- **Zero:** Cero
 - **One:** Uno
 - **Dois:** Dos
 - **Triai:** Tres
