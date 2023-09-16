@@ -37,6 +37,11 @@ También puedes hablar de tiempo relativo.
 - **Ande 1 olekso:** Hace una semana
 - **En 3 mes e 4 hen:** En 3 meses y 4 días
 
+También puedes referirse a días de la semana
+
+- **Eita lunio:** Este lunes
+- **Prevo Marzea:** El anterior Marzo
+
 ## Siglos y fechas antes del año 0
 
 Normalmente los siglos se escriben simplemente con el cardinal. Ejemplo.
