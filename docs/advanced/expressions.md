@@ -28,3 +28,4 @@ Estas son algunas expresiones para determinadas situaciones. Ten en cuenta que d
 - **So burnai la axa/inzo:** _(Que ha ocurrido algo malo y de esa han surgido cosas peores)_
 - **Bei sauza:** _(Ayudar a alguien en problemas)_
 - **So mopai ei acoa:** _(Ha intentado evitar algo y lo que ha hecho es que ocurra de manera más intensa / Ha intentado censurar algo y al final se ha hecho más conocido que si no lo hubiera intentado)_
+- **Astei en roxit:** _(No tener dinero)_
