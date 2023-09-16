@@ -16,3 +16,15 @@ Estas son algunas expresiones para determinadas situaciones. Ten en cuenta que d
 - **So sei am leon husko** _(Ya no es lo que fue, especialmente referente a personas)_
 - **So sei am tiko da equa** _(Es una persona que se adhiere y vive de otra)_
 - **Non ende non hembe (`acusativo`)** _(No es relevante o importante para el acusativo, o directamente no es necesario que lo sepa. Si no se incluye el acusativo a quien se refiere tiene que ser intuitivo)_ 
+- **En esentia:** _(En pocas palabras, brevemente)_
+- **X dantsaio:** _(Siendo X alguien, se refiere a la creencia de que va a tener suerte a futuro)_
+- **Sei foko vivo:** _(Tener malas intenciones)_
+- **Astei en Saturno:** _(Estar empanado)_
+- **So recomaizeio** _(Haber muerto)_
+- **So bareio a la parta** _(Poner los cuernos)_
+- **So virai asle carrusel:** _(Darle demasiadas vueltas a algo)_
+- **So kamboio dai 6 aei 9:** _(Cambiar las tornas de una situación)_
+- **Non drivai ei lorro:** _(No tientes a la suerte / Intenta evitar situaciones peligrosas)_
+- **So burnai la axa/inzo:** _(Que ha ocurrido algo malo y de esa han surgido cosas peores)_
+- **Bei sauza:** _(Ayudar a alguien en problemas)_
+- **So mopai ei acoa:** _(Ha intentado evitar algo y lo que ha hecho es que ocurra de manera más intensa / Ha intentado censurar algo y al final se ha hecho más conocido que si no lo hubiera intentado)_
