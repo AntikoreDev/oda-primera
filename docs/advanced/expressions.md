@@ -14,5 +14,5 @@ Estas son algunas expresiones para determinadas situaciones. Ten en cuenta que d
 - **Fusei ei forno** _(Molestar, incomodar)_
     - **Non fuseiet (ei/'pronombre posesivo') forno** _(No me molestes, no molestes)_
 - **So sei am leon husko** _(Ya no es lo que fue, especialmente referente a personas)_
-- **So sei am tiko da equa** _(Es una lapa)_
+- **So sei am tiko da equa** _(Es una persona que se adhiere y vive de otra)_
 - **Non ende non hembe (`acusativo`)** _(No es relevante o importante para el acusativo, o directamente no es necesario que lo sepa. Si no se incluye el acusativo a quien se refiere tiene que ser intuitivo)_ 
