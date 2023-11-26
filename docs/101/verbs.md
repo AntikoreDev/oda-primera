@@ -78,7 +78,7 @@ La diferencia es como estos se declinan. Los irregulares cambian los modificador
 | Futuro        | -ie     |
 | Condicional   | -iki    |
 | Imperativo    | -iet    |
-| Gerundio      | -ien    |
+| Gerundio      | -ieon   |
 | Participio    | -ioto   |
 
 ## Verbos especiales
