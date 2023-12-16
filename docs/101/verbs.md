@@ -40,7 +40,7 @@ Se utilizan los siguientes sufijos
 | Futuro        | -e      |
 | Condicional   | -ki     |
 | Imperativo    | -et     |
-| Gerundio      | -ien    |
+| Gerundio      | -ieon   |
 | Participio    | -ioto   |
 
 ### Ejemplos
