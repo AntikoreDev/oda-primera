@@ -26,6 +26,7 @@ nav:
     - Tiempo: advanced/time.md
     - Clima: advanced/climate.md
     - 'Sufijos': advanced/suffixes.md
+    - Direcciones: advanced/directions.md
     - Expresiones: advanced/expressions.md
-    
+
 theme: readthedocs
